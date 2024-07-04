@@ -1,0 +1,5 @@
+C:\Users\Matias\Documents\Carlemany\bank-marketing-train.csv
+C:\Users\Matias\Documents\Carlemany\WA_Fn-UseC_-Telco-Customer-Churn.csv
+C:\Users\Matias\Documents\Carlemany\adult(1) (1).csv
+C:\Users\Matias\Documents\adult(1).csv
+C:\Users\Matias\Documents\Carlemany\Example Workflows\Basic Examples\Building a Simple Classifier\CSV Reader (#14)
